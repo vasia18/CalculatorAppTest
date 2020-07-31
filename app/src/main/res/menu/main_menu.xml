@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:orderInCategory="1"
+        android:title="@string/action" />
+
+    <item
+        android:id="@+id/save_settings"
+        android:icon="@drawable/ic_baseline_check_24"
+        android:orderInCategory="2"
+        android:title="@string/save" />
+
+    <item
+        android:id="@+id/open_settings"
+        android:icon="@drawable/ic_baseline_get_app_24"
+        android:orderInCategory="3"
+        android:title="@string/open" />
+
+</menu>
